@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Kevin King",
       "email": "kevin@king.com",
-      "transitrouteId": 1
+      "transitRouteId": 1
     },
     {
       "email": "karl@smith.com",
