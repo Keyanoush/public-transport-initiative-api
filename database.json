@@ -1,21 +1,26 @@
 {
-    "users": [
-        {
-           "id": 1,
-           "name": "Kevin King",
-           "email": "kevin@king.com",
-           "routeId": 1
-        }
-    ],
-    "routes": [
-        {
-            "id": 1,
-            "name": "home",
-            "timeTaken": 10,
-            "isDelayed": false,
-            "startLocation": "404 News Street",
-            "endLocation": "123 Home Avenue",
-            "userId": 1
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "name": "Kevin King",
+      "email": "kevin@king.com",
+      "routeId": 1
+    },
+    {
+      "email": "karl@smith.com",
+      "name": "Karl Smith",
+      "id": 2
+    }
+  ],
+  "transitroutes": [
+    {
+      "id": 1,
+      "name": "home",
+      "timeTaken": 10,
+      "isDelayed": false,
+      "startLocation": "404 News Street",
+      "endLocation": "123 Home Avenue",
+      "userId": 1
+    }
+  ]
 }
