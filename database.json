@@ -3,8 +3,7 @@
     {
       "id": 1,
       "name": "Kevin King",
-      "email": "kevin@king.com",
-      "routeId": 1
+      "email": "kevin@king.com"
     },
     {
       "email": "karl@smith.com",
@@ -17,7 +16,7 @@
       "id": 1,
       "name": "home",
       "timeTaken": 10,
-      "isDelayed": false,
+      "isDelayed": 5,
       "startLocation": "404 News Street",
       "endLocation": "123 Home Avenue",
       "userId": 1
